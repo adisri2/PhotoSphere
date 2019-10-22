@@ -1,0 +1,1013 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"phot",
+				"photo_container"
+			],
+			[
+				"hide",
+				"hide_all_photos"
+			],
+			[
+				"mu",
+				"menu_item_btn"
+			],
+			[
+				"menu",
+				"menu_item_btn"
+			],
+			[
+				"me",
+				"menu_item_arr"
+			],
+			[
+				"wind",
+				"window_height"
+			],
+			[
+				"fab",
+				"fab_structure"
+			],
+			[
+				"appfab",
+				"App_Fab"
+			],
+			[
+				"Button",
+				"Button-1"
+			],
+			[
+				"crtl",
+				"ctrl_select"
+			],
+			[
+				"app_",
+				"app_photo_arr"
+			],
+			[
+				"photo",
+				"photo_label"
+			],
+			[
+				"app",
+				"app_photo_arr"
+			],
+			[
+				"apppoto",
+				"app_photo_arr"
+			],
+			[
+				"ctrl",
+				"global_ctrl_down"
+			],
+			[
+				"glo",
+				"global_ctrl_click"
+			],
+			[
+				"res",
+				"refresh_menu"
+			],
+			[
+				"active",
+				"active_mouse_y"
+			],
+			[
+				"y_",
+				"y_pos"
+			],
+			[
+				"x_",
+				"x_pos"
+			],
+			[
+				"init",
+				"init_mouse_x"
+			],
+			[
+				"winfo",
+				"winfo_children"
+			],
+			[
+				"input",
+				"input_field_wrapper"
+			],
+			[
+				"download",
+				"download_handle"
+			],
+			[
+				"row",
+				"photo_row_arr"
+			],
+			[
+				"total",
+				"total_hits"
+			],
+			[
+				"photo_row",
+				"photo_row_arr"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"pht",
+				"photo_label"
+			],
+			[
+				"hide_",
+				"hide_cmd"
+			],
+			[
+				"num",
+				"num_per_category"
+			],
+			[
+				"App_",
+				"App_Progressbar"
+			],
+			[
+				"cate",
+				"Categories"
+			],
+			[
+				"num_",
+				"num_categories"
+			],
+			[
+				"widget",
+				"widget_arr"
+			],
+			[
+				"widg",
+				"widget_arr"
+			],
+			[
+				"App",
+				"App_Num_Select"
+			],
+			[
+				"wi",
+				"widget_name"
+			],
+			[
+				"wra",
+				"wrapper"
+			],
+			[
+				"open",
+				"open_active_folder"
+			],
+			[
+				"Open",
+				"Open_Active_Folder"
+			],
+			[
+				"del_",
+				"del_btn"
+			],
+			[
+				"pac",
+				"pack_forget"
+			],
+			[
+				"pr",
+				"progressbar"
+			],
+			[
+				"del",
+				"del_cmd"
+			],
+			[
+				"sc",
+				"scroll_thread_arr"
+			],
+			[
+				"scroll",
+				"scrollbar_wrapper"
+			],
+			[
+				"scrol",
+				"scrollbar"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"scro",
+				"scrollbar"
+			],
+			[
+				"pla",
+				"place_forget"
+			],
+			[
+				"tool",
+				"tool_y_pos"
+			],
+			[
+				"mi",
+				"minimize_tool_width"
+			],
+			[
+				"phto",
+				"photo_x"
+			],
+			[
+				"plac",
+				"place"
+			],
+			[
+				"head",
+				"heading_styles"
+			],
+			[
+				"place",
+				"place_forget"
+			],
+			[
+				"btn_",
+				"btn_wrapper"
+			],
+			[
+				"over",
+				"overlay"
+			],
+			[
+				"overl",
+				"overlay_close"
+			],
+			[
+				"win",
+				"winfo_width"
+			],
+			[
+				"zoome",
+				"zoomed_photo_label"
+			],
+			[
+				"widn",
+				"window_width"
+			],
+			[
+				"zoo",
+				"zoomed_height"
+			],
+			[
+				"big",
+				"big_tk_photo"
+			],
+			[
+				"down",
+				"download_handle"
+			],
+			[
+				"do",
+				"download_handle"
+			],
+			[
+				"add",
+				"addit_photo_row"
+			],
+			[
+				"ad",
+				"addit_photo_row"
+			],
+			[
+				"con",
+				"photo_container"
+			],
+			[
+				"width",
+				"curr_photo_row_width"
+			],
+			[
+				"co",
+				"photo_container"
+			],
+			[
+				"Label",
+				"LabelFrame"
+			],
+			[
+				"photo_pa",
+				"photo_path"
+			],
+			[
+				"La",
+				"Label"
+			],
+			[
+				"photo_path",
+				"photo_path_arr"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"get",
+				"get_history"
+			],
+			[
+				"writ",
+				"write_process"
+			],
+			[
+				"wirte",
+				"write_photo"
+			],
+			[
+				"val",
+				"valid"
+			],
+			[
+				"to",
+				"to_title"
+			],
+			[
+				"join",
+				"joined_str"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"str",
+				"str_arr"
+			],
+			[
+				"de",
+				"delimiter"
+			],
+			[
+				"wor",
+				"wordlist"
+			],
+			[
+				"check",
+				"check"
+			],
+			[
+				"id",
+				"id_num"
+			],
+			[
+				"cot",
+				"container_width"
+			],
+			[
+				"winfo_",
+				"winfo_width"
+			],
+			[
+				"bg_",
+				"bg_photo"
+			],
+			[
+				"font",
+				"font_family"
+			],
+			[
+				"sta",
+				"start_y"
+			],
+			[
+				"cl",
+				"clicked_y"
+			],
+			[
+				"scr",
+				"scrollbar_amount"
+			],
+			[
+				"cotn",
+				"container_height"
+			],
+			[
+				"window",
+				"window_width"
+			],
+			[
+				"hei",
+				"container_height"
+			],
+			[
+				"winf",
+				"winfo_y"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"y",
+				"y_pos"
+			],
+			[
+				"x",
+				"x_pos"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"_",
+				"_category"
+			],
+			[
+				"rand",
+				"rand_word"
+			],
+			[
+				"L",
+				"LabelFrame"
+			],
+			[
+				"edi",
+				"Edit_Myterms"
+			],
+			[
+				"m",
+				"menu_structure"
+			],
+			[
+				"wo",
+				"wordlist_to_linear"
+			],
+			[
+				"word",
+				"wordlist"
+			],
+			[
+				"slug",
+				"slug_dict"
+			],
+			[
+				"file",
+				"filenames"
+			],
+			[
+				"dir",
+				"dirpath"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"n",
+				"num_spaces"
+			],
+			[
+				"update",
+				"update_idletasks"
+			],
+			[
+				"threa",
+				"threading"
+			],
+			[
+				"wr",
+				"wrapper_width"
+			],
+			[
+				"ta",
+				"target_width"
+			],
+			[
+				"targ",
+				"target_height"
+			],
+			[
+				"sea",
+				"search_entry"
+			],
+			[
+				"Lab",
+				"LabelFrame"
+			],
+			[
+				"App_Pop",
+				"App_Popover"
+			],
+			[
+				"tex",
+				"text_height"
+			],
+			[
+				"root",
+				"root_height"
+			],
+			[
+				"text",
+				"text_width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 240.0,
+		"history":
+		[
+			"C:\\Users\\adity\\Desktop\\programs\\API Photo\\PhotoSphere\\setup.py build",
+			"Running python -u \"C:\\Users\\adity\\Desktop\\programs\\API Photo\\PhotoSphere\\setup.py\" build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere"
+	],
+	"file_history":
+	[
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/download/download.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/setup.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_photo.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/photosphere.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/pages/edit_preferences.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/pages/edit_myterms.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/input-output/randword.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/input-output/preferences.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_prompt.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_progressbar.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_popover.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_num_select.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_menu.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_fab.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_entry.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_confirm.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_checkbox.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_button.py",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/v3/setup.py",
+		"/C/Users/adity/Desktop/Not Used Often/internal to cycles.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/styles/styles.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/pages/autoget.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/pages/open_active_folder.py",
+		"/C/Users/adity/.thonny/BundledPython36/Scripts/_tkinter.pyd",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/images/icon_16.ico",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/userdata/myterms.json",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_toast.py",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/v3/main.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/userdata/history.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/Ajax.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/userdata/preferences.json",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/components/app_tooltip.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist-1.json",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/compile_words.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist.json",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/input-output/savepath.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/load_font.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/install_font.vbs",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/userdata/setup.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/api_photo.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/wordlist.json",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist/verbs/web.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist/names/surnames/french.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist/nouns/buildings.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist/names/codenames/apple.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/wordlist/names/streets/chicago.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/input-output/truncate.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/path_to_save.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/base64encoder.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/images/up-15.png",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/util/global_click.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/player/player.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/main.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/util/app_threading.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/components/app_button.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/util/keep_flat.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/main.py",
+		"/C/Users/adity/Desktop/programs/Pandoria/components/app_tooltip.py",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/v1/main.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/tooltip.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/progressbar.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/nounlist.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/photosphere.sublime-project",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/api_photo_v_2.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/controllers/Input_Field.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/controllers/Frame.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/controllers/Selector.py",
+		"/C/Users/adity/Desktop/programs/API Photo/PhotoSphere/controllers/Menu.py",
+		"/C/Users/adity/Desktop/programs/API Photo/past versions/gui_api_photo.py",
+		"/C/Users/adity/Desktop/programs/API Photo/api_photo_v_2.py",
+		"/C/Users/adity/Desktop/programs/API Photo/setup.py",
+		"/C/Users/adity/Desktop/programs/API Photo/gui_api_photo.py",
+		"/C/Users/adity/Desktop/programs/API Photo/nounlist.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/build/exe.win32-3.6/nounlist.txt",
+		"/C/Users/adity/Desktop/programs/API Photo/hold.py",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/index.html",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/app/home/home.component.ts",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/app/app.component.html",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/app/app.component.ts",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/assets/style.css",
+		"/C/Users/adity/Desktop/programs/Angular/ninja-directory/src/app/app.component.css",
+		"/C/Users/adity/Desktop/programs/Projects/data.csv",
+		"/C/Users/adity/Desktop/programs/Projects/a2_csv_reader.py",
+		"/C/xampp2/htdocs/ci_hyde/application/controllers/Passwords.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/passwords/components/analytics-modal.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/passwords/index.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/passwords/components/function_toolbar.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/templates/header.php",
+		"/C/xampp2/htdocs/ci_hyde/assets/js/src/modules/ajax.js",
+		"/C/xampp2/htdocs/ci_hyde/assets/css/style.css",
+		"/C/xampp2/htdocs/ci_hyde/assets/images/arrow.svg",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/regex/regex_2.txt",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/regex/regex_3.txt",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/tmp",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/regex/tmp",
+		"/C/Users/adity/Desktop/programs/Projects/fix_words.py",
+		"/C/Users/adity/Desktop/programs/Projects/names.txt",
+		"/C/Users/adity/Desktop/programs/Projects/names_pattern.txt",
+		"/C/Users/adity/Desktop/programs/Projects/nounlist - Copy.txt",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/regex/regex_1.txt",
+		"/C/xampp2/htdocs/ci_hyde/assets/util/words.txt",
+		"/C/Users/adity/Desktop/programs/Projects/new_words_pattern_2.txt",
+		"/C/Users/adity/Desktop/programs/Projects/new_words_pattern - Copy.txt",
+		"/C/Users/adity/Desktop/programs/Projects/new_words_pattern.txt",
+		"/C/Users/adity/Desktop/programs/Projects/nounlist.txt",
+		"/C/Users/adity/Desktop/programs/Projects/new_words.txt",
+		"/C/Users/adity/Desktop/programs/Projects/words.txt",
+		"/C/xampp2/htdocs/ci_hyde/assets/js/src/home.js",
+		"/C/xampp2/htdocs/ci_hyde/application/views/pages/home.php",
+		"/C/xampp2/htdocs/ci_hyde/assets/js/plugins/waypoints.js",
+		"/C/xampp2/htdocs/ci_hyde/application/models/Password_model.php",
+		"/C/xampp2/htdocs/ci_hyde/assets/js/src/passwords.js",
+		"/C/xampp2/htdocs/ci_hyde/assets/js/plugins/scrollbar.min.js",
+		"/C/xampp2/htdocs/ci_hyde/application/views/passwords/components/truncate-modal.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/users/components/delete-acc-modal.php",
+		"/C/xampp2/htdocs/ci_hyde/application/controllers/Users.php",
+		"/C/xampp2/htdocs/ci_hyde/application/models/User_model.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/users/login.php",
+		"/C/xampp2/htdocs/ci_hyde/application/config/routes.php",
+		"/C/xampp2/htdocs/ci_hyde/application/controllers/Pages.php",
+		"/C/Users/adity/AppData/Local/Temp/Temp1_CodeIgniter-3.1.8.zip/CodeIgniter-3.1.8/application/config/routes.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/errors/html/error_404.php",
+		"/C/xampp2/htdocs/ci_hyde/application/config/config.php",
+		"/C/Users/adity/AppData/Local/Temp/Temp1_CodeIgniter-3.1.8.zip/CodeIgniter-3.1.8/application/views/errors/html/error_404.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/passwords/components/feature_discovery.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/errors/html/index.html",
+		"/C/xampp2/htdocs/ci_hyde/application/views/pages/404.php",
+		"/C/xampp2/htdocs/ci_hyde/application/views/errors/cli/error_404.php"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 358.0,
+		"where_history":
+		[
+			"C:\\Users\\adity\\Desktop\\programs\\API Photo\\PhotoSphere",
+			"C:\\xampp2\\htdocs\\Code Igniter App"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Image",
+			"ImageTk",
+			"Image",
+			"app_photo_arr",
+			"append",
+			"borderwidth=",
+			"borderwidth=1",
+			"hide_photo",
+			"refresh_menu",
+			"self.global",
+			"self.photo",
+			"pil_photo",
+			"print",
+			"self.num_downloaded",
+			"self.photo_path",
+			"self.photo_label",
+			"show_tools",
+			"toast",
+			"num",
+			"App_Confirm",
+			"size_det",
+			"toast",
+			"pct_completed",
+			"photo_path",
+			"MouseWhe",
+			"delete_tool",
+			"print",
+			"image",
+			"styles",
+			"truncate",
+			"print",
+			")\n",
+			"window",
+			"setup",
+			"set",
+			"setup",
+			"pref",
+			"open",
+			"overlay",
+			"input_field_wrapper",
+			"false",
+			"_id_num",
+			"id",
+			"mousewheel",
+			"y_pos",
+			")",
+			"category",
+			"master",
+			"root",
+			"print",
+			"label",
+			"heading_arr",
+			"path_var",
+			"self.list_arr",
+			"self.get_path",
+			"pathname",
+			"placeholder_arr",
+			"print",
+			"self.now_playing",
+			"tool",
+			"2",
+			"#",
+			"self._tipwindow",
+			"lambda",
+			"lambad",
+			"self.percent_to_increase",
+			"progress",
+			"print",
+			"lamb",
+			"scroll",
+			"increment",
+			"left",
+			"reset",
+			"self.image_arr",
+			"self.image",
+			"self.downloaded_img_paths",
+			"update",
+			"self.downloaded_img_paths",
+			"self.image_arr",
+			"self.downloaded_img_paths",
+			"self.input_container",
+			"`",
+			"progress",
+			"config",
+			"configure",
+			"config",
+			"downloaded_img_paths",
+			"path_to_save",
+			"underscored_query",
+			"images_wrapper_init",
+			"window_width",
+			"basewidth",
+			"active_image_wrapper",
+			"images_wrapper_init",
+			"input_bg_color",
+			"bg_color",
+			"select",
+			"Frame",
+			"status_text",
+			"images_wrapper",
+			"grid",
+			"[grid](*)",
+			"size_18_font",
+			"spinbox",
+			"B\"utton",
+			"Button",
+			"underscored_query",
+			"idle",
+			"idle\n\n",
+			"idle",
+			"updateidle",
+			"os.path",
+			"jackie",
+			"jack",
+			"jackie",
+			"getcwd",
+			"perman",
+			"perman\n",
+			"hooks",
+			"protection",
+			"button",
+			"fill",
+			"background",
+			"opaci",
+			"opac",
+			">\n",
+			"cache",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"photo_label",
+			"App_Prompt",
+			"self.pct_completed",
+			"photo",
+			"self.input_field_wrapper",
+			"container_y_pos",
+			"self.category",
+			"master_folder",
+			"self.label",
+			"self.heading_arr",
+			"get_path",
+			"entry_arr",
+			"self.container",
+			"input_bg_color",
+			"pack",
+			"sideNavFunction",
+			"hyde"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 122.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 180.0
+	},
+	"pinned_build_system": "",
+	"project": "--.sublime-project",
+	"replace":
+	{
+		"height": 94.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp2\\htdocs\\pwdManagerWBootstrap\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\adity\\Desktop\\programs\\API Photo\\PhotoSphere\\photosphere.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$(\".tooltipped\")"
+			]
+		],
+		"width": 901.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
